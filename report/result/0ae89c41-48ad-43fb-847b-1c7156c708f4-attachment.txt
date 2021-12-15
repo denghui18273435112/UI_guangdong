@@ -1,0 +1,1 @@
+DEBUG    G:\pycharm\script\UI_guangdong\tools\logUtil.py:all.py:22 [test_record_statistical_query_inquire_005-- 05 培训记录统计--验证 操作]

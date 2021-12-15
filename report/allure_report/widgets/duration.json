@@ -1,0 +1,101 @@
+[ {
+  "uid" : "22177e390c05ab0",
+  "name" : "test_kinds_standards",
+  "time" : {
+    "start" : 1639564609761,
+    "stop" : 1639564615880,
+    "duration" : 6119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "111404da8ffaf325",
+  "name" : "test_operation",
+  "time" : {
+    "start" : 1639564772842,
+    "stop" : 1639564819431,
+    "duration" : 46589
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e24c8486e6d10",
+  "name" : "test_inquire",
+  "time" : {
+    "start" : 1639564728027,
+    "stop" : 1639564772837,
+    "duration" : 44810
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebe3718504e36c50",
+  "name" : "test_student_details",
+  "time" : {
+    "start" : 1639564615884,
+    "stop" : 1639564666855,
+    "duration" : 50971
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a4a3a54747359c2",
+  "name" : "test_query_inquire",
+  "time" : {
+    "start" : 1639564688491,
+    "stop" : 1639564728023,
+    "duration" : 39532
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8dfab7d4d7e9d76",
+  "name" : "test_query_inquire",
+  "time" : {
+    "start" : 1639564819436,
+    "stop" : 1639564840655,
+    "duration" : 21219
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f1efbd45263508f2",
+  "name" : "test_charts",
+  "time" : {
+    "start" : 1639564595012,
+    "stop" : 1639564609757,
+    "duration" : 14745
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "51b76cae8e7d1e07",
+  "name" : "test_submission",
+  "time" : {
+    "start" : 1639564680917,
+    "stop" : 1639564688487,
+    "duration" : 7570
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ecd462e993091e2",
+  "name" : "test_company_data",
+  "time" : {
+    "start" : 1639564666859,
+    "stop" : 1639564680913,
+    "duration" : 14054
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ace462eac11714f",
+  "name" : "test_overview_digital",
+  "time" : {
+    "start" : 1639564584377,
+    "stop" : 1639564595008,
+    "duration" : 10631
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

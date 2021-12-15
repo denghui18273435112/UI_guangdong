@@ -1,0 +1,1 @@
+DEBUG    G:\pycharm\script\UI_guangdong\tools\logUtil.py:home.py:13 [test_student_details_003--02 首页-学员详情--验证 查询功能]

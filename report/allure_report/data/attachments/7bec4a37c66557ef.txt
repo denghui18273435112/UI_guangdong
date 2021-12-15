@@ -1,0 +1,1 @@
+DEBUG    G:\pycharm\script\UI_guangdong\tools\logUtil.py:home.py:13 [test_charts_002--01 首页-数字概览--验证 参训/达标走势图  是否正确返回]

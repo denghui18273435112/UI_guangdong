@@ -1,0 +1,1 @@
+DEBUG    G:\pycharm\script\UI_guangdong\tools\logUtil.py:query_inquire.py:21 [test_query_inquire_005-- 05 培训记录查询--验证 操作]
