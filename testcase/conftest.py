@@ -19,6 +19,8 @@ def driver():
         for one in os.listdir(result_path):
             if "environment.properties" not in one:
                 os.remove(result_path+os.sep+"{}".format(one))
+        for one_2 in os.listdir(logs_path):
+                os.remove(logs_path+os.sep+"{}".format(one_2))
         for one_1 in os.listdir(photo_path):
             if "_截图" in one_1:
                 os.remove(photo_path+os.sep+"{}".format(one_1))
@@ -28,14 +30,11 @@ def driver():
     os.system("pip freeze > requirements.txt")
     print("\n>>进入UI自动化测试环节.....>>\n")
 
-    #打开浏览器#
-    #可隐藏窗口
-    # option = ChromeOptions()
-    # option.headless =False
-    # option.add_argument('window-size=1920x1080')
-    # driver = webdriver.Chrome(options=option)
-    driver = webdriver.Chrome()
-    driver.maximize_window()
+    #打开浏览器;输入账号和密码
+    option = webdriver.ChromeOptions()
+    option.headless =True
+    option.add_argument('window-size=1920x1080')
+    driver = webdriver.Chrome(options=option)
     login=Yaml_read("all.yaml","login")
     driver.get(login["url"])
     selenium(driver).input_text("请输入账号",login["login_account"])

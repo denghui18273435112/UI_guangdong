@@ -1,1 +1,0 @@
-DEBUG    G:\pycharm\script\UI_guangdong\tools\logUtil.py:credit_inquiry.py:22 [test_operation_005-- 05 培训学分查询--验证 操作]

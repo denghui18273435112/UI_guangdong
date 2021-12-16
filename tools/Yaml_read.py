@@ -44,4 +44,4 @@ def Yaml_read(yaml_name="conf.yaml", level_1=None, level_2=None, filePath=None, 
             return login[level_1][level_2]
 
 if __name__ == '__main__':
-    print(Yaml_read("test_bug.yaml"))
+    print(Yaml_read("all.yaml","student_details"))

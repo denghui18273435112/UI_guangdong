@@ -1,22 +1,22 @@
 class DataConfig:
     """
-    #¶¨ÒåÁĞÊôĞÔ
-    #ÓÃÀıID	Ä£¿é	½Ó¿ÚÃû³Æ	ÇëÇóURL	Ç°ÖÃÌõ¼ş	ÇëÇóÀàĞÍ	ÇëÇó²ÎÊıÀàĞÍ
-    #ÇëÇó²ÎÊı	Ô¤ÆÚ½á¹û	Êµ¼Ê½á¹û	±¸×¢	ÊÇ·ñÔËĞĞ	headers	cookies	status_code	Êı¾İ¿âÑéÖ¤
-    #ÓÃÀıID
+    ä¸»è¦çš„ä½œç”¨ç”¨äºå–è¡¨æ ¼æŸå­—æ®µçš„æ•°æ®
+    #å®šä¹‰åˆ—å±æ€§
+    #ç”¨ä¾‹ID	æ¨¡å—	æ¥å£åç§°	è¯·æ±‚URL	å‰ç½®æ¡ä»¶	è¯·æ±‚ç±»å‹	è¯·æ±‚å‚æ•°ç±»å‹
+    #è¯·æ±‚å‚æ•°	é¢„æœŸç»“æœ	å®é™…ç»“æœ	å¤‡æ³¨	æ˜¯å¦è¿è¡Œ	headers	cookies	status_code	æ•°æ®åº“éªŒè¯
+    #ç”¨ä¾‹ID
     """
-    case_id = "ÓÃÀıID"
-    case_model = "Ä£¿é"
-    case_name = "½Ó¿ÚÃû³Æ"
-    url = "ÇëÇóURL"
-    pre_exec = "Ç°ÖÃÌõ¼ş"
-    method = "ÇëÇóÀàĞÍ"
-    params_type = "ÇëÇó²ÎÊıÀàĞÍ"
-    params = "ÇëÇó²ÎÊı"
-    expect_result = "Ô¤ÆÚ½á¹û"
-    actual_result = "Êµ¼Ê½á¹û"
-    is_run = "ÊÇ·ñÔËĞĞ"
-    headers = "headers"
-    cookies = "cookies"
-    code = "status_code"
-    db_verify = "Êı¾İ¿âÑéÖ¤"
+
+    case_id = "ç”¨ä¾‹ID"
+    case_model = "æ¨¡å—"
+    case_name = "æ¥å£åç§°"
+    priority = "ä¼˜å…ˆçº§"
+    title = "æ ‡é¢˜"
+    url = "è¯·æ±‚URL"
+    pre_exec = "å‰ç½®æ¡ä»¶"
+    method = "è¯·æ±‚æ–¹æ³•"
+    params_type = "è¯·æ±‚å¤´"
+    params = "è¯·æ±‚å‚æ•°"
+    expect_result = "é¢„æœŸç»“æœ"
+    response_expect_result = "å“åº”é¢„æœŸç»“æœ"
+    actual_result = "å®é™…ç»“æœ"

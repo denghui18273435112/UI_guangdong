@@ -130,19 +130,6 @@ class ConfigYaml:
 
 
 
-#登录的信息
-# url="http://localhost:8080/zentao"
-# login_account="admin"
-# password= "123456"
-# Login_success_url = "http://localhost:8088/zentao/user-login-L3plbnRhby8=.allure-report"
-# validation_url= "http://tp.safetycms.huayustech.com"
-# tes="http://tp.safetycms.giiatop.com/#/CourseManagement  http://192.168.1.202:8117/#/Login"
-# new_url= "http://192.168.1.202:8117/#/Login"
-# SCHOOL="moxicheng zzl123"
-# new_password= "admin123"
-# new_text="admin"
-# url_ip="http://192.168.1.202:8117/#/"
-# url1="用不着的http://192.168.1.202:8117/#/Login"
 
 
 

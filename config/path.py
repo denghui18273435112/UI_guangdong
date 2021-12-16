@@ -19,4 +19,5 @@ guangdong_classify_path = testcase_path+os.sep+"guangdong_classify"
 xampp_path = testcase_path+os.sep+"xampp"
 photo_path = file_path+os.sep+"photo"
 
-
+#文件路径
+file_path_01= docs_path+os.sep+"山东分类.xls"

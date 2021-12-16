@@ -1,1 +1,0 @@
-DEBUG    G:\pycharm\script\UI_guangdong\tools\logUtil.py:submission.py:19 [test_tabulate_data_003--04 培训计划报送--验证 查询操作]
